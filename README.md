@@ -1,9 +1,9 @@
-#T20 World Cup Data Analytics Project
+# T20 World Cup Data Analytics Project
 
-#Overview
+# Overview
 This repository contains a data analytics project focused on analyzing T20 World Cup data scraped from ESPN's website. The project aims to uncover insights into team and player performance, match outcomes, key trends, and any other relevant findings through exploratory data analysis and visualization techniques.
 
-Table of Contents
+# Table of Contents
 Introduction
 Objective
 Methodology
@@ -14,13 +14,13 @@ Team Performance Analysis
 Player Performance Analysis
 Insights and Conclusion
 
-#Introduction
+# Introduction
 The T20 World Cup is one of the most exciting events in cricket, bringing together teams from around the world to compete for the prestigious title. This project utilizes web scraping techniques to extract data from ESPN's website related to T20 World Cup matches, teams, players, and statistics. The extracted data is then analyzed to derive meaningful insights and trends.
 
-#Objective
+# Objective
 The main objective of this project is to analyze T20 World Cup data and present insights regarding team and player performance, match outcomes, key trends, and any other relevant findings.
 
-#Methodology
+# Methodology
 The methodology involves several key steps:
 
 Data Collection: Utilize web scraping techniques to extract data from ESPN's website.
@@ -31,20 +31,20 @@ Insights and Conclusion: Summarize key findings and insights obtained from the a
 #Data Collection
 Data is collected by scraping relevant information from ESPN's website using Python libraries such as BeautifulSoup and Scrapy.
 
-#Data Preprocessing
+# Data Preprocessing
 The scraped data is cleaned to handle missing values, inconsistencies, and errors. It is then converted into a structured format suitable for analysis, such as JSON.
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 Exploratory analysis is performed to gain insights into the overall distribution of data, trends over time, and correlations between different variables. Visualizations are created to make patterns more interpretable.
 
-#Team Performance Analysis
+# Team Performance Analysis
 The performance of different teams in T20 World Cup matches is analyzed. Factors contributing to team success, such as batting averages, bowling economy rates, and fielding efficiency, are identified.
 
-#Player Performance Analysis
+# Player Performance Analysis
 The performance of individual players across various T20 World Cup editions is evaluated. Top performers are identified based on metrics like runs scored, wickets taken, and strike rates.
 
 
-#Deliverables
+# Deliverables
 Final report summarizing the entire analysis process
 
 #Tools and Technologies
