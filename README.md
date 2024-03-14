@@ -45,11 +45,17 @@ The performance of individual players across various T20 World Cup editions is e
 
 
 # Deliverables
+
 Final report summarizing the entire analysis process
 
-#Tools and Technologies
+# Tools and Technologies
+
 Python
+
 BeautifulSoup
+
 Scrapy
+
 pandas
+
 NumPy
